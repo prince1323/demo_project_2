@@ -1,0 +1,240 @@
+.gener{
+    padding: 20px 0px;
+  
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #49f200;
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    height: 31px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #49f200;    
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    font-weight: 500;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+
+  
+  /* Change color of dropdown links on hover */
+
+  .dropdown-content a:hover {background-color: rgb(238, 204, 204);}
+
+
+  
+  /* Show the dropdown menu on hover */
+
+  .dropdown:hover .dropdown-content {display: block;}
+
+
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+/* **************search_bar******************************** */
+
+.search-bar{
+    background-color:  #49f200;
+    height: 31px;
+    width: 1300px;
+    border-style: none;
+    float: right;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+/* ***********************search_icon*******************************/
+
+.search-icon{
+  position: absolute;
+  z-index: 1;
+  float: right;
+  margin: 3px 0px 0px 1303px;
+  width: 25px;
+  cursor: pointer;
+}
+
+
+
+
+/* ********************main_content******************************************* */
+
+.mc_row1{
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.mc_row1 img{
+  width: 220px;
+  height: 220px;
+}
+
+.mcr1-c1,
+.mcr1-c2,
+.mcr1-c3,
+.mcr1-c4,
+.mcr1-c5,
+.mcr1-c6{
+  height: 300px;
+  background-color: rgba(0,0,0,0.2);
+  margin: 0px 10px;
+  border: 1px solid black;
+}
+
+/* *************row_2************************** */
+
+.mc_row2{
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.mc_row2 img{
+  width: 220px;
+  height: 220px;
+}
+
+.mcr2-c1,
+.mcr2-c2,
+.mcr2-c3,
+.mcr2-c4,
+.mcr2-c5,
+.mcr2-c6{
+  height: 300px;
+  background-color: rgba(0,0,0,0.2);
+  margin: 0px 10px;
+  border: 1px solid black;
+}
+
+
+/* *************row_3************************** */
+
+.mc_row3{
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.mc_row3 img{
+  width: 220px;
+  height: 220px;
+}
+
+.mcr3-c1,
+.mcr3-c2,
+.mcr3-c3,
+.mcr3-c4,
+.mcr3-c5,
+.mcr3-c6{
+  height: 300px;
+  background-color: rgba(0,0,0,0.2);
+  margin: 0px 10px;
+  border: 1px solid black;
+}
+
+
+
+/* *************row_4************************** */
+
+.mc_row4{
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.mc_row4 img{
+  width: 220px;
+  height: 220px;
+}
+
+.mcr4-c1,
+.mcr4-c2,
+.mcr4-c3,
+.mcr4-c4,
+.mcr4-c5,
+.mcr4-c6{
+  height: 300px;
+  background-color: rgba(0,0,0,0.2);
+  margin: 0px 10px;
+  border: 1px solid black;
+}
+
+
+
+/* *************row_5************************** */
+
+.mc_row5{
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.mc_row5 img{
+  width: 220px;
+  height: 220px;
+}
+
+.mcr5-c1,
+.mcr5-c2,
+.mcr5-c3,
+.mcr5-c4,
+.mcr5-c5,
+.mcr5-c6{
+  height: 300px;
+  background-color: rgba(0,0,0,0.2);
+  margin: 0px 10px;
+  border: 1px solid black;
+}
+

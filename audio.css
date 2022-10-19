@@ -1,0 +1,63 @@
+
+.slideshow-container img{
+
+    padding: 0px 45px;
+}
+
+.act-head h2{
+    border: none;
+    text-align: center;
+    color: white;
+}
+
+.cat-1-row1 h3 {
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.cat-2{
+    padding-top: 40px;
+}
+
+.cat-2-row1 h3 {
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.cat-3{
+    padding-top: 40px;
+}
+
+.cat-3-row1 h3 {
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+
+.cat-4{
+    margin-top: 70px;
+}
+
+.cat-4-row-1{
+    padding-top: 10px;
+    display: flex;
+}
+
+.cat-4-row-1 img{
+    border-radius: 50%;
+}
+
+.cat-4-row-1 h3{
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+    padding-right: 40px;
+
+}
+
+.c1 {
+    width: 16.66%;
+}
